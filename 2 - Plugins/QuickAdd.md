@@ -22,9 +22,11 @@
 
 2. Para utilizar os comandos: abra a *Command Palette*(``Crtl+p``/``Cmd+p``) ou use o plugin [Buttons]()
 
+````
 ```button
 name Adicionar projeto
 type command
 action QuickAdd: Adicionar projeto
 ```
+````
 <img src="/assets/quickadd-command-palette.png" width="500px" />
