@@ -9,10 +9,11 @@
 
 O resultado é mostrado somente após a conclusão da execução. Não é possível digitar texto na linha de comando no programa executado agora.
 
-![[execute_code_example.gif]]
+<img src="/assets/execute_code_example.gif" width="500px" />
+
 *Gif retirado do repositório do plugin*
 
-As seguintes linguagens são suportadas:
+**As seguintes linguagens são suportadas:**
 
 C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F #, Batch, Shell e Powershell, Octave e Maxima.
 
