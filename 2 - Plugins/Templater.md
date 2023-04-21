@@ -13,10 +13,16 @@
 2. Vá nas configurações do plugin e coloque o caminho desta pasta de templates
 3. Para acionar os templates use o *Command Palette*(``Crtl+p``/``Cmd+p``) e pesquise *Templater*
 
+<img src="/assets/templater-command-palette.png" width="500px" />
 
 
-# 
-O seguinte arquivo de template está usando a sintaxe do Templater:
+# Documentação e sintaxe
+
+https://silentvoid13.github.io/Templater/
+
+# Exemplo
+
+**O seguinte arquivo de template está usando a sintaxe do Templater:**
 
 ```
 ---
@@ -31,7 +37,7 @@ data de modificação: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss
 <% tp.web.daily_quote() %>
 ```
 
-Produzirá o seguinte resultado quando inserido:
+**Produzirá o seguinte resultado quando inserido:**
 ```
 ---
 data de criação: 2021-01-07 17:20
