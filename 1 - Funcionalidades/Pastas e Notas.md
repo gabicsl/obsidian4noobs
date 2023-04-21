@@ -3,9 +3,11 @@ As notas no Obsidian são armazenadas como arquivos de texto simples, o que as t
 # Criar uma nova nota
 
 1.  Digite `Ctrl+N` (or `Cmd+N` on macOS)
-2.  Digite "Obsidian" como o nome da sua nota e pressione `Enter`
+2.  Digite o título de sua nota e pressione `Enter`
 
-![[new-note.png]]
+ou procure o ícone de *New Note* na barra lateral esquerda
+
+<img src="/assets/new-note.png" width="300px" />
 
 # Formatar sua nota
 
