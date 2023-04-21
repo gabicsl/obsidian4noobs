@@ -1,0 +1,69 @@
+/*.tag:not(.token) {
+  background-color: var(--text-accent);
+  border: none;
+  color: white;
+  font-size: 11px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+.tag:not(.token):hover {
+  color: white;
+  background-color: var(--text-accent-hover);
+}*/
+
+.tag[href^="#obsidian"] {
+  background-color: #4d3ca6;
+}
+.tag[href^="#important"] {
+  background-color: red;
+}
+.tag[href^="#complete"] {
+  background-color: rgb(95, 194, 2);
+}
+.tag[href^="#inprogress"] {
+  background-color: orange;
+}
+.tag[href^="#reading"] {
+  background-color: #FFEA58;
+}
+.tag[href^="#toread"] {
+  background-color: #FF9278;
+}
+.tag[href^="#done"] {
+  background-color: #C4ED7C;
+}
+.tag[href^="#React"] {
+  background-color: #48CEF6;
+color: #000000
+}
+.tag[href^="#Gatsby"] {
+  background-color: #663298;
+  color: #efefefef
+}
+.tag[href^="#MongoDB"] {
+  background-color: #289F3E;
+  color: #efefefef
+}
+.tag[href^="#Strapi"] {
+  background-color: #8C76F8;
+  color: #efefefef
+}
+.tag[href^="#Nextjs"] {
+  background-color: #efefefef;
+  color:  #000000
+}
+.tag[href^="#JavaScript"] {
+  background-color: #E8D54D;
+  color:  #000000
+}
+.tag[href^="#python"] {
+  background-color: #E8D54D;
+  color:  #000000
+}
+
+
