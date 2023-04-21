@@ -3,9 +3,8 @@
 ---
 
 > - Este plugin permite que você execute blocos de código em suas anotações. 
-> - O plugin adiciona um botão "executar" para blocos de código em linguagens suportadas. 
-> - Clicar neles resulta na execução do código do bloco. 
-> - Após a execução, o resultado é mostrado. Um elemento de entrada interativo é criado quando seus trechos de código esperam entrada do usuário.
+> - O plugin adiciona um botão "executar" para blocos de código em linguagens suportadas, após a execução, o resultado é mostrado. 
+> - Um elemento de entrada interativo é criado quando seus trechos de código esperam entrada do usuário.
 
 O resultado é mostrado somente após a conclusão da execução. Não é possível digitar texto na linha de comando no programa executado agora.
 
