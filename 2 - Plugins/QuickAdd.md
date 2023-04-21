@@ -5,7 +5,6 @@
 > - QuickAdd é um plugin usado para adicionar rapidamente novas páginas e novo conteúdo em seu vault
 > - Você pode adicionar notas em pastas específicas do seu vault usando um atalho, preencher o  front matter em YAML usando prompts, etc...
 
-
 # Opções
 
 - **Template**: é uma definição de como criar uma nova nota e se compõe com o próprio plugin de modelos do Obsidian ou plugins de modelos da comunidade. Por exemplo, isso permitiria definir uma ação rápida para criar uma nova nota em um local específico, com um título padronizado e conteúdo padronizado. Pode ser utilizado em conjunto com o [Templater]()
@@ -18,7 +17,7 @@
 
 1. Vá em Settings > Community Plugins > QuickAdd > 
 
-![[quickadd-settings.png]]
+<img src="/assets/quickadd-settings.png" width="500px" />
 
 2. Para utilizar os comandos: abra a *Command Palette*(``Crtl+p``/``Cmd+p``) ou use o plugin [Buttons]()
 
@@ -27,6 +26,4 @@ name Adicionar projeto
 type command
 action QuickAdd: Adicionar projeto
 ```
-
-![[quickadd-command-palette.png]]
-
+<img src="/assets/quickadd-command-palette.png" width="500px" />
