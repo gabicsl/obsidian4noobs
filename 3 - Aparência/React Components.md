@@ -25,33 +25,36 @@ react-components-namespace: projects.test
 ---
 ```
 
-ou (se o dataview estiver instalado) usando propriedades inline do dataview
-
+ou (se o dataview estiver instalado) usando propriedades inline do dataview (Key:: Value)
 ```
 defines-react-components:: true
 react-components-namespace:: projects.test
 ```
 
 Então, em sua nota, para definir um componente, escreva um bloco de código como este:
-
+````
 ```jsx:component:MyComponent
 return <div>Hello {props.name}!</div>
 ```
-
+````
 Isso criará um componente chamado `MyComponent`, localizado no namespace `projetos.teste` (ou no namespace global se você não especificou a propriedade).
 
 Você pode então usar o componente assim:
-
+````
 ```jsx:
 <MyComponent name={"World"}/>
 ```
+````
 
 Ou, usando sintaxe inline.
+````
 `jsx:<MyComponent name={"World"}/>`
+````
 
 Se você estiver em uma nota que usa um namespace separado, pode acessar o componente assim:
-
+````
 `jsx:<projects.test.MyComponent name={"World"}/>`
+````
 
 ## 2. Notas de componentes
 
@@ -59,8 +62,7 @@ Uma maneira alternativa de criar componentes é por meio de notas de componentes
 
 Para usar as notas de componente, você primeiro deve especificar uma pasta para as funções Jsx / componentes React.
 
-![[react-components.png]]
-*Imagem retirada do repositório do plugin*
+<img src="/assets/react-components.png" alt="ícone do obsidian" width="500px" />
 
 Cada nota neste diretório será interpretada como o conteúdo de uma função Jsx (implicitamente no formato props=>{seu código aqui}).
 
@@ -71,15 +73,13 @@ Cada arquivo se torna uma função/componente React com o mesmo nome da nota.
 
 # Exemplo de utilização
 
-> Componente de exemplo [Clock]()
+> Componente de exemplo [Clock](https://github.com/gabibits/obsidian4noobs/blob/master/assets/exemplos/Clock.md)
 
 
 Uso do component *Clock*:
 
+````
 ```jsx::Clock
-
 <Clock/>
 ```
-
-
-
+````
