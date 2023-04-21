@@ -1,5 +1,6 @@
 [Repositório do plugin](https://github.com/elias-sundqvist/obsidian-react-components)
 [QuickAdd API](https://quickadd.obsidian.guide/docs/QuickAddAPI)
+
 ---
 
 > - QuickAdd é um plugin usado para adicionar rapidamente novas páginas e novo conteúdo em seu vault
