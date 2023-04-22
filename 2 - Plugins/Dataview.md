@@ -3,7 +3,7 @@
 ---
 
 > - Trate seu Vault Obsidian como um banco de dados que você pode consultar
-> - Ele fornece uma API JavaScript e uma linguagem de consulta baseada em pipeline para filtrar, classificar e extrair dados de páginas Markdown
+> - Fornece uma API JavaScript e uma linguagem de consulta baseada em pipeline para filtrar, classificar e extrair dados de páginas Markdown
 
 # Como utilizar
 
@@ -18,7 +18,7 @@ O Dataview gera dados do seu Vault ao extrair informações do **frontmatter do 
 -   O frontmatter do Markdown é um YAML incluído entre `---` no topo de um documento Markdown, que pode armazenar metadados sobre aquele documento
 -   Os campos inline são um recurso do Dataview que permitem que você escreva metadados diretamente no seu documento Markdown usando a sintaxe `Key:: Value`
 
-Exemplos de ambos abaixo:
+**Exemplos de ambos abaixo:**
 
 ```
 ---
