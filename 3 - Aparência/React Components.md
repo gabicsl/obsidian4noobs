@@ -80,3 +80,7 @@ Uso do component *Clock*:
 <Clock/>
 ```
 ````
+
+Imagem do componente quando renderizado
+
+<img src="/assets/clock.png" width="500px" />
