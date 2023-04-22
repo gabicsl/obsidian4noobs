@@ -9,6 +9,8 @@ Se você quer algo mais prático ou não tem muita habilidade com css, você pod
 
 Se você quiser personalizar seu tema você pode criar snippets de css
 
+- Vá em *Settings > Appearence > No final da página vá na seção **CSS Snippets***
+- Clique no ícone de pasta, você irá abrir o explorador de arquivos
 - Dentro do seu vault existe uma pasta  _.obsidian_ e dentro dela existe uma pasta *snippets*
 - Insira seus arquivos css nessa pasta
 - Quando quiser aplicar o estilo é so marcar o arquivo
