@@ -58,7 +58,7 @@ Se você estiver em uma nota que usa um namespace separado, pode acessar o compo
 
 ## 2. Notas de componentes
 
-Uma maneira alternativa de criar componentes é por meio de notas de componentes. Essa abordagem trata um arquivo markdown inteiro como a definição de um único componente React. Uma vantagem dessa abordagem é que você pode abrir a nota em, por exemplo, o Visual Studio Code, para obter destaque completo de sintaxe e autocomplete.
+Uma maneira alternativa de criar componentes é por meio de notas de componentes. Essa abordagem trata um arquivo markdown inteiro como a definição de um único componente React. Uma vantagem dessa abordagem é que você pode abrir a nota, por exemplo, no VS Code, para obter destaque completo de sintaxe e autocomplete.
 
 Para usar as notas de componente, você primeiro deve especificar uma pasta para as funções Jsx / componentes React.
 
@@ -69,12 +69,9 @@ Cada nota neste diretório será interpretada como o conteúdo de uma função J
 Cada arquivo se torna uma função/componente React com o mesmo nome da nota.
 
 
-
-
 # Exemplo de utilização
 
 > Componente de exemplo [Clock](https://github.com/gabibits/obsidian4noobs/blob/master/assets/exemplos/Clock.md)
-
 
 Uso do component *Clock*:
 
