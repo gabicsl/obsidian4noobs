@@ -42,3 +42,5 @@ Por ser um tema muito abragente vou deixar um link pra melhor entendimento do as
 
 # Site Oficial para instalação
 https://obsidian.md/
+
+| [Próxima >>](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Vault.md)
