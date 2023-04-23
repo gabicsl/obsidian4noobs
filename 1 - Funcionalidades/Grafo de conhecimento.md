@@ -6,3 +6,5 @@ Os [backlinks](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Fu
 > - Cada círculo representa notas, ou "nodos".
 > - As linhas representam links internos entre dois nodos/notas.
 <img src="https://www.obsidianroundup.org/content/images/size/w1000/2022/02/image.png" width="600px" />
+
+[<< Anterior](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Backlinks%20e%20Tags.md)
