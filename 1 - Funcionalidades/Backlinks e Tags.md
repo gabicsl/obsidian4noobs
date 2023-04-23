@@ -55,3 +55,5 @@ Embora você possa usar tags e links juntos, há algumas coisas importantes para
 -   Quando você altera o nome de um arquivo dentro do Obsidian, todos os links para essa pasta serão automaticamente atualizados para apontar para o lugar certo. Isso não acontecerá com as tags.
 -   Clicar em uma tag irá abrir uma busca por todos os arquivos que contêm essa tag.
 -   Clicar em um link irá abrir a nota vinculada, se ela existir, ou criar uma nova se ela não existir.
+
+[<< Anterior](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Pastas%20e%20Notas.md) | [Próxima >>](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Grafo%20de%20conhecimento.md)
