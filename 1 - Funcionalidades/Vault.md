@@ -23,3 +23,5 @@ Se você já tem uma pasta existente que deseja utilizar como um vault:
 3.  Clique em **Open**
 
 <img src="/assets/vault-switcher.png" width="500px" />
+
+[<< Anterior](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Introdu%C3%A7%C3%A3o.md) | [Próxima >>](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Pastas%20e%20Notas.md)
