@@ -1,12 +1,12 @@
 # O que é o Obsidian
-É um software de gestão de conhecimento pessoal ([Personal Knowledge Management - PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management)), que lhe permite criar e guardar as suas notas localmente no formato de arquivo [Markdown](https://www.markdownguide.org/basic-syntax/). Permitindo você *linkar* suas notas e criar um gráfico de conhecimento de informação.
+- É um software de gestão de conhecimento pessoal ([Personal Knowledge Management - PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management))
+- Crie e guarde as suas notas localmente no formato de arquivo [Markdown](https://www.markdownguide.org/basic-syntax/)
+- Permite você *linkar* suas notas, criando uma grafo para visualziar o relacionamento entre elas 
 
 Nas palavras dos próprios criadores:
 > A second brain, for you, forever. Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 
 Ou seja, é uma base de conhecimento, seu *"segundo cérebro"*.  
-
-
 
 ![print do software obsidian](https://obsidian.md/images/screenshot-1.0-hero-combo.png)
 
@@ -19,10 +19,11 @@ Pra quem quer “conectar os pontos” entre seus pensamentos, ideias e  notas.
 
 ## Casos de Uso para devs
 
-- [Engineering daybooks](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0041.xhtml) -  **Crie um log de aprendizado:** Os desenvolvedores podem usar o Obsidian para criar um registro diário de seu aprendizado. Eles podem criar uma nota para cada dia e registrar o que aprenderam, os desafios que enfrentaram e as soluções que encontraram. Isso pode ajudá-los a ver seu progresso ao longo do tempo e a identificar áreas em que precisam se concentrar mais.
-- **Crie uma biblioteca de snippets:** Adicione comentários explicando como o código funciona e em que contextos ele pode ser aplicado. Isso pode economizar tempo ao trabalhar em projetos futuros e ajudá-los a se tornarem mais eficientes.
-- **Crie uma lista de recursos de aprendizado:** Você pode criar uma lista de recursos de aprendizado que você considera útil. Isso pode incluir livro, cursos, tutoriais em vídeo, blogs e fóruns. Você pode adicionar comentários sobre os recursos para ajudá-los a lembrar por que acharam cada um útil.
-- **Conecte notas relacionadas:** O Obsidian permite que os desenvolvedores conectem notas relacionadas usando a função de vinculação. Eles podem usar isso para criar um mapa mental de conceitos de programação e recursos de aprendizado relacionados. Isso pode ajudá-los a entender como as diferentes peças se encaixam e a identificar lacunas em seu conhecimento.
+- [Engineering daybooks](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0041.xhtml) -  **Crie um log de aprendizado:** Devs podem usar o Obsidian para criar um registro diário de seu trabalho e aprendizado. Crie uma nota para cada dia e registre o que aprendou, os desafios que enfrentou e as soluções que encontrou. Isso pode lhe ajudar a ver seu progresso ao longo do tempo e a identificar áreas em que precisa se concentrar mais.
+- **Crie uma biblioteca de snippets:** Adicione comentários explicando como o trechos de código funcionam e em que contextos eles podem ser aplicados. Isso pode te auxiliar ao trabalhar em projetos futuros.
+- **Crie uma lista de recursos de aprendizado:** Você pode criar uma lista de recursos de aprendizado que você considera útil. Isso pode incluir livro, cursos, tutoriais em vídeo, blogs e fóruns. Você pode adicionar comentários sobre os recursos para ajudá-los a lembrar por que achou cada um útil.
+- **Conecte notas relacionadas:** O Obsidian permite conectar notas relacionadas usando a função de [[backlinks]]. Você pode usar isso para criar um mapa mental, ajudando a entender como diferentes conceitos se encaixam e, assim, identificar lacunas em seu conhecimento.
+- **Gerenciamento de projetos:** Utilize plugins feito pela comunidade como quadros kanban e diversas integrações com apps como Jira, Gitlab e Google Calendar.
     
 # Por que o Obsidian?
 
