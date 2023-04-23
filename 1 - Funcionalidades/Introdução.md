@@ -35,12 +35,14 @@ Pra quem quer “conectar os pontos” entre seus pensamentos, ideias e  notas.
 
 # Workflows
 
-Existem diversos frameworks de gestão de conhecimento pessoal que você pode seguir no Obsidian, um deles é o *Zettelkasten*.
+Existem diversos frameworks de gestão de conhecimento pessoal que você pode seguir no Obsidian.
 
-Por ser um tema muito abragente vou deixar um link pra melhor entendimento do assunto:
-- [How to use Obsidian as ZETTELKASTEN](https://mattgiaro.com/obsidian-zettelkasten/)
+Por ser um tema muito abragente vou deixar alguns artigos para melhor entendimento do assunto:
+- https://mattgiaro.com/obsidian-zettelkasten/
+- https://b-yarbrough.medium.com/obsidian-and-para-are-the-perfect-pairing-together-you-can-remember-connect-and-create-7a87c8882de5
+- https://notes.nicolevanderhoeven.com/Personal+Knowledge+Management
 
 # Site Oficial para instalação
 https://obsidian.md/
 
-| [Próxima >>](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Vault.md)
+[Próxima >>](https://github.com/gabibits/obsidian4noobs/blob/master/1%20-%20Funcionalidades/Vault.md)
